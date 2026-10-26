@@ -1,0 +1,6 @@
+{
+  "name": "MathStory Rasio SMP - Flipped Guided Inquiry",
+  "description": "Platform pembelajaran digital mathematics storytelling untuk materi rasio SMP dengan model Flipped Guided Inquiry Based Learning, dilengkapi video, simulasi, materi, dan latihan interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
